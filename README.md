@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Nguy%E1%BB%85n%20Huy%20L%C6%B0%E1%BB%A3ng&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP&descSize=18&descAlignY=58&descColor=e2e8f0" width="100%" />
-</div>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&repeat=true&width=640&lines=🤖+Building+intelligent+systems;🧠+Deep+Learning+%7C+Computer+Vision+%7C+NLP;📄+Reproducing+research+papers+into+working+code;🌏+Building+AI+for+Vietnamese+language+%26+context" />
 </p>
@@ -22,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Nguyễn Huy Lượng**, a Computer Science student at **Ho Chi Minh City University of Technology (HCMUT)**, passionate about building AI systems that bridge the gap between cutting-edge research and real-world applications.
+I'm **Nguyen Huy Luong**, a Computer Science student at **Ho Chi Minh City University of Technology (HCMUT)**, passionate about building AI systems that bridge the gap between cutting-edge research and real-world applications.
 
 - 🔭 Currently working on **Transformer-based video understanding** and **Vietnamese NLP pipelines**
 - 🧪 Interested in **multimodal learning**, **generative models**, and **efficient AI**
@@ -33,38 +29,21 @@ I'm **Nguyễn Huy Lượng**, a Computer Science student at **Ho Chi Minh City 
 
 ## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Deep Learning</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Machine Learning</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/XGBoost-189AB4?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,docker,git,jupyter&perline=6" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
+</p>
 
 ---
 
