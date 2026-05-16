@@ -62,13 +62,14 @@ I'm **Nguyen Huy Luong**, a Computer Science student at **Ho Chi Minh City Unive
       <a href="https://github.com/hiiluo08/traffic-accident-detection-transformer">→ View Project</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🖼️ Image Captioning</h3>
-      <p>CNN-Transformer architecture for natural language image description. <strong>ResNet-50</strong> extracts spatial features; a <strong>Transformer Decoder</strong> with causal masking and cross-attention generates captions. Evaluated with BLEU, METEOR, CIDEr on Flickr8k.</p>
+      <h3>♟️ Cờ Gánh AI Agent</h3>
+      <p>AI agent for the Vietnamese board game <strong>Cờ Gánh</strong> using <strong>Minimax with Alpha-Beta pruning</strong> and iterative deepening. Features a custom evaluation function and move ordering for efficient search. Assignment 2 — Introduction to AI.</p>
       <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Multimodal-818CF8?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Search_Algorithms-6366F1?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Game_AI-10B981?style=flat-square"/>
       </p>
-      <a href="https://github.com/hiiluo08/image-captioning">→ View Project</a>
+      <a href="https://github.com/hiiluo08/ganh-chess-agent">→ View Project</a>
     </td>
   </tr>
   <tr>
@@ -104,13 +105,14 @@ I'm **Nguyen Huy Luong**, a Computer Science student at **Ho Chi Minh City Unive
       <a href="https://github.com/hiiluo08/intro2AI-assignment1-search">→ View Project</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🖼️ CIFAR-10 Classification</h3>
-      <p>Image classification experiments on the CIFAR-10 benchmark dataset, exploring different CNN architectures and training strategies.</p>
+      <h3>🔧 TyC Compiler</h3>
+      <p>Full compiler pipeline for <strong>TyC</strong>, a custom C-like language, built with <strong>ANTLR4</strong>. Covers lexical analysis, parsing, AST generation, <strong>type inference</strong>, static semantic checking, and JVM bytecode generation via Jasmin. Principles of Programming Languages.</p>
       <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ANTLR4-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Compiler-8B5CF6?style=flat-square"/>
       </p>
-      <a href="https://github.com/hiiluo08/CIFAR10">→ View Project</a>
+      <a href="https://github.com/hiiluo08/tyc-compiler">→ View Project</a>
     </td>
   </tr>
 </table>
