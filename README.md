@@ -127,9 +127,6 @@ I'm **Nguyen Huy Luong**, a Computer Science student at **Ho Chi Minh City Unive
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiiluo08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiiluo08&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
 
 ---
 
@@ -144,7 +141,3 @@ I'm **Nguyen Huy Luong**, a Computer Science student at **Ho Chi Minh City Unive
     <img src="https://img.shields.io/badge/Gmail-hiilu0.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
-</div>
