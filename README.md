@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&repeat=true&width=640&lines=🤖+Building+intelligent+systems;🧠+Deep+Learning+%7C+Computer+Vision+%7C+NLP;📄+Reproducing+research+papers+into+working+code;🌏+Building+AI+for+Vietnamese+language+%26+context" />
-</p>
+<h1 align="center">Hi, I'm Nguyen Huy Luong 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hiiluo08/">
@@ -18,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Nguyen Huy Luong**, a Computer Science student at **Ho Chi Minh City University of Technology (HCMUT)**, passionate about building AI systems that bridge the gap between cutting-edge research and real-world applications.
+I'm a Computer Science student at **Ho Chi Minh City University of Technology (HCMUT)**, passionate about building AI systems that bridge the gap between cutting-edge research and real-world applications.
 
 - 🔭 Currently working on **Transformer-based video understanding** and **Vietnamese NLP pipelines**
 - 🧪 Interested in **multimodal learning**, **generative models**, and **efficient AI**
@@ -30,18 +28,16 @@ I'm **Nguyen Huy Luong**, a Computer Science student at **Ho Chi Minh City Unive
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,docker,git,jupyter&perline=6" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logoColor=white"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
 </p>
 
@@ -119,14 +115,15 @@ I'm **Nguyen Huy Luong**, a Computer Science student at **Ho Chi Minh City Unive
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Currently Exploring
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hiiluo08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  &nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiiluo08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6"/>
-</div>
-
+```text
+🎯  Transformer architectures for video understanding
+🧬  Multimodal learning (vision + language)
+🔬  Reproducing ML papers from scratch
+🌏  Vietnamese NLP — bridging language and AI
+🕹️  Classical AI search & game-playing algorithms
+```
 
 ---
 
