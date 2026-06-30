@@ -48,8 +48,8 @@ I'm a Computer Science student at **Ho Chi Minh City University of Technology (H
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚗 Traffic Accident Detection</h3>
-      <p>Reproduction of a <strong>Transformer-based video classifier</strong> for accident detection from surveillance footage. Dual-stream ResNet-50 extracts RGB + Optical Flow features, fed into a 3-layer, 8-head Transformer Encoder with masked mean pooling.</p>
+      <h3>🚗 Multitask Traffic Accident Detection</h3>
+      <p>Multitask traffic accident detection on the ACCIDENT benchmark using DINOv2 RGB features, vehicle-region Optical Flow, and physical dynamics descriptors (OSD &amp; ARD). The model applies cross-attention fusion and BiGRU/Transformer temporal modeling to predict accident timing, crash location, and crash type, achieving <strong>78.18% accuracy</strong> and <strong>0.78 Macro F1</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
         <img src="https://img.shields.io/badge/WandB-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
